@@ -173,6 +173,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Notebook
+michael.ipynb
 samuel.ipynb
 
+# Csv
 *.csv
