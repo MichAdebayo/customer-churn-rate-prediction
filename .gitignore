@@ -177,5 +177,6 @@ cython_debug/
 michael.ipynb
 samuel.ipynb
 
-# Csv
+# Data
 *.csv
+data/
