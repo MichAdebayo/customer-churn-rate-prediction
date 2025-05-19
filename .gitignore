@@ -176,3 +176,6 @@ cython_debug/
 # Notebook
 michael.ipynb
 samuel.ipynb
+
+# Csv
+*.csv
