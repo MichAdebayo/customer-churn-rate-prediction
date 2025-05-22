@@ -5,3 +5,5 @@ matplotlib
 seaborn
 ipykernel
 pandas
+shap
+optuna
