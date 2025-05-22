@@ -180,3 +180,8 @@ samuel.ipynb
 # Data
 *.csv
 data/
+checkpoints/
+logs/
+
+# Git ignore
+.gitignore
