@@ -185,3 +185,6 @@ logs/
 
 # Git ignore
 .gitignore
+
+# db
+optuna_study.db
