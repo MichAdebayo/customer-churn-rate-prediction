@@ -188,3 +188,6 @@ logs/
 
 # db
 optuna_study.db
+
+# Ds-Store
+.DS_Store
