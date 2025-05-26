@@ -5,3 +5,7 @@ matplotlib
 seaborn
 ipykernel
 pandas
+shap
+optuna
+optuna-dashboard
+statsmodels

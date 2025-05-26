@@ -182,3 +182,12 @@ samuel.ipynb
 data/
 checkpoints/
 logs/
+
+# Git ignore
+.gitignore
+
+# db
+optuna_study.db
+
+# Ds-Store
+.DS_Store
