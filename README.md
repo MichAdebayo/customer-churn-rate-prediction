@@ -1,7 +1,5 @@
 # Customer Churn Rate Prediction
 
-![Workflow](https://img.shields.io/badge/DeepLearning-Churn-blue?style=flat-square)
-
 <p align="center" >
    <img width="1500" height="800" src= "https://github.com/user-attachments/assets/86e00588-6bc4-4801-b170-9fbb7d7f44aa" alt="churn-prediction"/>
 </p>
