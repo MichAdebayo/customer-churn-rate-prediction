@@ -1,4 +1,4 @@
-# Customer Churn Rate Prediction with Deep Learning
+# Customer Churn Rate Prediction
 
 ![Workflow](https://img.shields.io/badge/DeepLearning-Churn-blue?style=flat-square)
 
