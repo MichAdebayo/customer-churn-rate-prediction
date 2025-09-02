@@ -182,6 +182,7 @@ samuel.ipynb
 data/
 checkpoints/
 logs/
+docs/
 
 # Git ignore
 .gitignore
